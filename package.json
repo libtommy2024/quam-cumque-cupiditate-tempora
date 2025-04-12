@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/quam-cumque-cupiditate-tempora",
-  "version": "14.21.320",
+  "version": "14.21.321",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -479,5 +479,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/quam-cumque-cupiditate-tempora/issues"
   },
-  "packageManager": "yarn@4.9.0"
+  "packageManager": "yarn@4.9.1"
 }
